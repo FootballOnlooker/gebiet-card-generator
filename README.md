@@ -92,7 +92,7 @@ pip install -r requirements.txt
 Open `generate_cards.py` and change the Excel file path:
 
 ```python
-EXCEL_FILE = "C:\\Users\\VivoBook\\Desktop\\Versammlung\\Data.xlsx"
+EXCEL_FILE = "C:\\sample_data.xlsx"
 ```
 
 Then run:

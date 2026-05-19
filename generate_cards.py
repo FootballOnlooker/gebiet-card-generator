@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 # =========================
 # НАСТРОЙКИ
 # =========================
-EXCEL_FILE = "C:\\Users\\VivoBook\\Desktop\\Versammlung\\Data.xlsx"
+EXCEL_FILE = "C:\\sample_data.xlsx"
 DATA_SHEET = "Daten"
 NB_SHEET = "NichtBesuchen"
 EXTRAS_SHEET = "Extras"

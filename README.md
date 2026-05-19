@@ -136,7 +136,3 @@ Each card contains:
 - Export cards as PDF
 - Add sample Excel data
 - Add automated tests
-
-## Author
-
-Andreas Timofeev

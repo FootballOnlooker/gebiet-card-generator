@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Output files
+output/
+*.png
+
+# Local Excel data
+*.xlsx
+*.xls
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -136,3 +136,9 @@ Each card contains:
 - Export cards as PDF
 - Add sample Excel data
 - Add automated tests
+
+  ## Screenshots
+
+Gebiet 1 <img width="732" height="776" alt="Gebiet_1" src="https://github.com/user-attachments/assets/63941829-1938-4523-adc9-2b5d69ec7bb2" />
+Gebiet 2 <img width="732" height="776" alt="Gebiet_2" src="https://github.com/user-attachments/assets/9d69f2f2-b344-425f-8d17-6181c459d754" />
+
